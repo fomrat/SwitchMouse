@@ -5,6 +5,4 @@ This is a console app. I put a shortcut to it on my taskbar, set it to run minim
 
 There'll be a lag on first run (a second or two) as the .NET Framework loads. Thereafter, there's a sub-second run time. 
 
-The change is not reflescted in mouse settings.
-
-(SwapMouse is Forms=based to eliminate console flicker.)
+The change is not reflected in mouse settings.
